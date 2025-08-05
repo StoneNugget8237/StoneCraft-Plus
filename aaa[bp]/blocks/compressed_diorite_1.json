@@ -1,0 +1,17 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:block": {
+    "description": {
+      "identifier": "sc_plus:compressed_diorite_1",
+      "menu_category": {
+        "category": "construction"
+      }
+    },
+    "components": {
+      "minecraft:destroy_time": 3.0,
+      "minecraft:explosion_resistance": 6.0,
+      "minecraft:map_color": "#B0A9A2",
+      "minecraft:block_light_absorption": 15
+    }
+  }
+}

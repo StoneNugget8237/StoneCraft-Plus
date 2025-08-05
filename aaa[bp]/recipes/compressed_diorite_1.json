@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sc_plus:compressed_diorite_1"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diorite"
+      }
+    },
+    "result": {
+      "item": "sc_plus:compressed_diorite_1",
+      "count": 1
+    }
+  }
+}

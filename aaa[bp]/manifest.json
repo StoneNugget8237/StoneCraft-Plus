@@ -1,0 +1,33 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "石头工艺Plus",
+    "description": "新增石头变种与合成系统",
+    "uuid": "611bd479-985f-4037-90c9-373119862f8c",
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "b82b77f5-8917-4cd5-9fec-a074abe833c4",
+      "version": [0, 1, 0]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "3ed8c2e2-e966-4507-9170-2d39de32cd1f",
+      "version": [0, 1, 0],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1eb98657-f6ac-49ae-b4d0-8dbbbd568f3a", 
+      "version": [0, 1, 0] 
+    }
+  ],
+  "capabilities": [
+    "script_eval"
+  ]
+}

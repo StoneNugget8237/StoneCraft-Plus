@@ -1,0 +1,33 @@
+{
+  "format_version": "1.21.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "sc_plus:compressed_andesite_pickaxe_4",
+      "menu_category": {"category": "equipment","group": "itemGroup.name.pickaxe"}
+    },
+    "components": {
+      "minecraft:display_name": {
+        "value": "item.sc_plus.compressed_andesite_pickaxe_4"
+      },
+      "minecraft:icon": {
+        "textures": {
+          "default": "compressed_andesite_pickaxe_4"
+        }
+      },
+      "minecraft:max_stack_size": 1,
+      "minecraft:hand_equipped": true,
+      "minecraft:durability": {
+        "max_durability": 2096
+      },
+      "minecraft:digger": {
+        "use_efficiency": true,
+        "destroy_speeds": [
+          {
+            "block": "minecraft:stone",
+            "speed": 9
+          }
+        ]
+      }
+    }
+  }
+}

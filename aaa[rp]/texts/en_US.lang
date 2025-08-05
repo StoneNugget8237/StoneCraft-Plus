@@ -1,0 +1,40 @@
+tile.sc_plus:compressed_granite_1.name=Compressed Granite I
+tile.sc_plus:compressed_granite_2.name=Compressed Granite II
+tile.sc_plus:compressed_granite_3.name=Compressed Granite III
+tile.sc_plus:compressed_granite_4.name=Compressed Granite IV
+tile.sc_plus:compressed_granite_5.name=Compressed Granite V
+
+tile.sc_plus:compressed_andesite_1.name=Compressed Andesite I
+tile.sc_plus:compressed_andesite_2.name=Compressed Andesite II
+tile.sc_plus:compressed_andesite_3.name=Compressed Andesite III
+tile.sc_plus:compressed_andesite_4.name=Compressed Andesite IV
+tile.sc_plus:compressed_andesite_5.name=Compressed Andesite V
+
+tile.sc_plus:compressed_diorite_1.name=Compressed Diorite I
+tile.sc_plus:compressed_diorite_2.name=Compressed Diorite II
+tile.sc_plus:compressed_diorite_3.name=Compressed Diorite III
+tile.sc_plus:compressed_diorite_4.name=Compressed Diorite IV
+tile.sc_plus:compressed_diorite_5.name=Compressed Diorite V
+
+item.sc_plus.andesite_pickaxe=Andesite Pickaxe
+item.sc_plus.compressed_andesite_pickaxe_1=Compressed Andesite Pickaxe I
+item.sc_plus.compressed_andesite_pickaxe_2=Compressed Andesite Pickaxe II
+item.sc_plus.compressed_andesite_pickaxe_3=Compressed Andesite Pickaxe III
+item.sc_plus.compressed_andesite_pickaxe_4=Compressed Andesite Pickaxe IV
+item.sc_plus.compressed_andesite_pickaxe_5=Compressed Andesite Pickaxe V
+
+item.sc_plus.granite_pickaxe=Granite Pickaxe
+item.sc_plus.compressed_granite_pickaxe_1=Compressed Granite Pickaxe I
+item.sc_plus.compressed_granite_pickaxe_2=Compressed Granite Pickaxe II
+item.sc_plus.compressed_granite_pickaxe_3=Compressed Granite Pickaxe III
+item.sc_plus.compressed_granite_pickaxe_4=Compressed Granite Pickaxe IV
+item.sc_plus.compressed_granite_pickaxe_5=Compressed Granite Pickaxe V
+
+item.sc_plus.diorite_pickaxe=Diorite Pickaxe
+item.sc_plus.compressed_diorite_pickaxe_1=Compressed Diorite Pickaxe I
+item.sc_plus.compressed_diorite_pickaxe_2=Compressed Diorite Pickaxe II
+item.sc_plus.compressed_diorite_pickaxe_3=Compressed Diorite Pickaxe III
+item.sc_plus.compressed_diorite_pickaxe_4=Compressed Diorite Pickaxe IV
+item.sc_plus.compressed_diorite_pickaxe_5=Compressed Diorite Pickaxe V
+
+sc_plus:itemGroup.name.compressed_stones=Compressed Stones

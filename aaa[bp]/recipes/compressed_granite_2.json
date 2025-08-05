@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sc_plus:compressed_granite_2"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "sc_plus:compressed_granite_1"
+      }
+    },
+    "result": {
+      "item": "sc_plus:compressed_granite_2",
+      "count": 1
+    }
+  }
+}

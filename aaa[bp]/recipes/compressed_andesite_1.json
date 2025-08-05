@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "sc_plus:compressed_andesite_1"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:andesite"
+      }
+    },
+    "result": {
+      "item": "sc_plus:compressed_andesite_1",
+      "count": 1
+    }
+  }
+}

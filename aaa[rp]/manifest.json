@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "石头工艺Plus资源包",
+    "description": "石头工艺的纹理与音效",
+    "uuid": "1eb98657-f6ac-49ae-b4d0-8dbbbd568f3a", 
+    "version": [0, 1, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "f92502c5-c553-4b4f-9530-9a01f33dd0c1",
+      "version": [0, 1, 0]
+    }
+  ]
+}

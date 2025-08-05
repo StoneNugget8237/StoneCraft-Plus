@@ -1,0 +1,25 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "compressed_granite_1": { "textures": "textures/blocks/sc_plus/compressed/compressed_granite_1" },
+    "compressed_granite_2": { "textures": "textures/blocks/sc_plus/compressed/compressed_granite_2" },
+    "compressed_granite_3": { "textures": "textures/blocks/sc_plus/compressed/compressed_granite_3" },
+    "compressed_granite_4": { "textures": "textures/blocks/sc_plus/compressed/compressed_granite_4" },
+    "compressed_granite_5": { "textures": "textures/blocks/sc_plus/compressed/compressed_granite_5" },
+    
+    "compressed_andesite_1": { "textures": "textures/blocks/sc_plus/compressed/compressed_andesite_1" },
+    "compressed_andesite_2": { "textures": "textures/blocks/sc_plus/compressed/compressed_andesite_2" },
+    "compressed_andesite_3": { "textures": "textures/blocks/sc_plus/compressed/compressed_andesite_3" },
+    "compressed_andesite_4": { "textures": "textures/blocks/sc_plus/compressed/compressed_andesite_4" },
+    "compressed_andesite_5": { "textures": "textures/blocks/sc_plus/compressed/compressed_andesite_5" },
+    
+    "compressed_diorite_1": { "textures": "textures/blocks/sc_plus/compressed/compressed_diorite_1" },
+    "compressed_diorite_2": { "textures": "textures/blocks/sc_plus/compressed/compressed_diorite_2" },
+    "compressed_diorite_3": { "textures": "textures/blocks/sc_plus/compressed/compressed_diorite_3" },
+    "compressed_diorite_4": { "textures": "textures/blocks/sc_plus/compressed/compressed_diorite_4" },
+    "compressed_diorite_5": { "textures": "textures/blocks/sc_plus/compressed/compressed_diorite_5" }
+  }
+}

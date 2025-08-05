@@ -1,0 +1,60 @@
+{
+  "resource_pack_name": "石头工艺Plus",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "andesite_pickaxe": {
+      "textures": "textures/items/andesite_pickaxe"
+    },
+    "compressed_andesite_pickaxe_1": {
+      "textures": "textures/items/compressed_andesite_pickaxe_1"
+    },
+    "compressed_andesite_pickaxe_2": {
+      "textures": "textures/items/compressed_andesite_pickaxe_2"
+    },
+    "compressed_andesite_pickaxe_3": {
+      "textures": "textures/items/compressed_andesite_pickaxe_3"
+    },
+    "compressed_andesite_pickaxe_4": {
+      "textures": "textures/items/compressed_andesite_pickaxe_4"
+    },
+    "compressed_andesite_pickaxe_5": {
+      "textures": "textures/items/compressed_andesite_pickaxe_5"
+    },
+    "granite_pickaxe": {
+      "textures": "textures/items/granite_pickaxe"
+    },
+    "compressed_granite_pickaxe_1": {
+      "textures": "textures/items/compressed_granite_pickaxe_1"
+    },
+    "compressed_granite_pickaxe_2": {
+      "textures": "textures/items/compressed_granite_pickaxe_2"
+    },
+    "compressed_granite_pickaxe_3": {
+      "textures": "textures/items/compressed_granite_pickaxe_3"
+    },
+    "compressed_granite_pickaxe_4": {
+      "textures": "textures/items/compressed_granite_pickaxe_4"
+    },
+    "compressed_granite_pickaxe_5": {
+      "textures": "textures/items/compressed_granite_pickaxe_5"
+    },
+    "diorite_pickaxe": {
+      "textures": "textures/items/diorite_pickaxe"
+    },
+    "compressed_diorite_pickaxe_1": {
+      "textures": "textures/items/compressed_diorite_pickaxe_1"
+    },
+    "compressed_diorite_pickaxe_2": {
+      "textures": "textures/items/compressed_diorite_pickaxe_2"
+    },
+    "compressed_diorite_pickaxe_3": {
+      "textures": "textures/items/compressed_diorite_pickaxe_3"
+    },
+    "compressed_diorite_pickaxe_4": {
+      "textures": "textures/items/compressed_diorite_pickaxe_4"
+    },
+    "compressed_diorite_pickaxe_5": {
+      "textures": "textures/items/compressed_diorite_pickaxe_5"
+    }
+  }
+}
